@@ -1,4 +1,4 @@
-### Hola soy Tomas Espil👋
+### Hi I'am Tomas Espil👋
 
 - 🔭 I’m currently working on personal proyects 
 - 🌱 I’m currently learning FullStack 
