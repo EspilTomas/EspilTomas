@@ -1,6 +1,7 @@
 ### Hi I'am Tomas Espil👋
 
-- 🔭 I’m currently working on personal proyects 
+- 🔭 I’m currently working on ConosurIT
+-  
 - 🌱 I’m currently learning FullStack 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
