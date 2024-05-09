@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning Alfresco and Amazon web services <br>🎯 Goal: always learn new things<br>🎲 Fun fact: i like video games</p>
+<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning Alfresco and AWS <br>🎯 Goal: always learn new things<br>🎲 Fun fact: i like video games</p>
 
 ###
 
