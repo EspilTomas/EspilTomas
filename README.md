@@ -61,8 +61,6 @@
 
 <!-- GitHub Stats Section -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EspilTomas&show_icons=true&theme=github_dark" alt="Tomas's GitHub stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EspilTomas&theme=github-dark-blue" alt="GitHub streak" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EspilTomas&layout=compact&theme=github_dark" alt="Top Languages" height="165"/>
 </p>
 
@@ -73,30 +71,3 @@
   <a href="https://github.com/EspilTomas/your-project"><img src="https://github-readme-stats.vercel.app/api/pin/?username=EspilTomas&repo=your-project&theme=github_dark" /></a>
 </p>
 
-<!-- CSS Animations -->
-<style>
-@keyframes text-fade {
-  0%, 100% { color: black; }
-  50% { color: gray; }
-}
-
-@keyframes fill-bar {
-  0% { width: 0%; }
-  100% { width: 70%; }
-}
-
-@keyframes rotate {
-  0% { transform: rotate(0deg); }
-  100% { transform: rotate(360deg); }
-}
-
-@keyframes bounce {
-  0%, 100% { transform: translateY(0); }
-  50% { transform: translateY(-10px); }
-}
-
-@keyframes pulse {
-  0%, 100% { transform: scale(1); }
-  50% { transform: scale(1.1); }
-}
-</style>
