@@ -84,5 +84,5 @@
 
 <!-- Optional: Pin your best projects here -->
 <p align="center">
-  <a href="https://github.com/EspilTomas/your-project"><img src="https://github-readme-stats.vercel.app/api/pin/?username=EspilTomas&repo=/ChatSync&theme=github_dark" /></a>
+  <a href="https://github.com/EspilTomas/ChatSync"><img src="https://github-readme-stats.vercel.app/api/pin/?username=EspilTomas&repo=/ChatSync&theme=github_dark" /></a>
 </p>
