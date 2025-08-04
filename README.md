@@ -78,10 +78,3 @@
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EspilTomas&layout=compact&theme=github_dark" alt="Top Languages" height="165"/>
 </p>
-
----
-
-<!-- Optional: Pin your best projects here -->
-<p align="center">
-  <a href="https://github.com/EspilTomas/ChatSync"><img src="https://github-readme-stats.vercel.app/api/pin/?username=EspilTomas&repo=/ChatSync/&theme=github_dark" /></a>
-</p>
