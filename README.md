@@ -75,8 +75,7 @@
 
 ---
 
-<!-- GitHub Stats Section -->
-<p align="center">
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EspilTomas&layout=compact&theme=github_dark" alt="Top Languages" height="165"/>
 </p>
 
