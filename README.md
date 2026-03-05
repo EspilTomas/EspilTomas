@@ -1,80 +1,87 @@
-<h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
-  Hey <span style="animation: text-fade 3s infinite;">What's up?</span>
-</h1>
+<div align="center">
 
-<p align="left">
-  My name is <b>Tomas Espil</b> and I'm a Full Stack Web Developer from Argentina 🧉
-</p>
+# Tomas Espil
 
----
+**Full Stack Developer & AI Engineer**
+Building intelligent systems where infrastructure meets AI
 
-<h2 align="left">About Me</h2>
+*Concordia, Argentina — Open to remote opportunities*
 
-<ul align="left">
-  <li>✨ Writing code (and bugs) since 2021</li>
-  <li>💼 Passionate about developing efficient and impactful web applications</li>
-  <li>📚 Currently learning <b>Alfresco</b> and <b>AWS</b></li>
-  <li>
-    🚀 <b>Learning Progress:</b>
-    <div style="background-color: #ddd; border-radius: 5px; padding: 3px; width: 100%; max-width: 400px; animation: fill-bar 3s infinite;">
-      <div style="background-color: #4caf50; height: 20px; width: 70%; border-radius: 5px;"></div>
-    </div>
-  </li>
-  <li>🎯 Always striving to learn something new</li>
-  <li>🎮 Fun fact: I enjoy video games and love mate 🧉</li>
-</ul>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pablo-tomasespil)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=netlify&logoColor=white)](https://tomas-espil.netlify.app/)
 
-<details>
-  <summary>🔍 Current Focus</summary>
-  <ul>
-    <li>🌐 Mastering cloud technologies and services with AWS</li>
-    <li>📊 Diving deeper into enterprise content management with Alfresco</li>
-    <li>⚡ Building scalable and high-performance web solutions</li>
-    <li>🔄 Streamlining development workflows with CI/CD practices</li>
-  </ul>
-</details>
-
----
-
-<h2 align="left">Tech Stack</h2>
-
-<div align="left" style="display: flex; flex-wrap: wrap;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" style="animation: rotate 3s infinite;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" style="animation: rotate 3s infinite;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" style="animation: rotate 3s infinite;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="NextJS" style="background:white; border-radius:4px; animation: bounce 2s infinite;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="NodeJS" style="animation: bounce 2s infinite;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="AngularJS" style="animation: bounce 2s infinite;" />
 </div>
 
 ---
 
-<h2 align="left">Tools I Use</h2>
+## About
 
-<div align="left" style="display: flex; flex-wrap: wrap;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" style="animation: pulse 2s infinite;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="GitLab" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" height="40" alt="MongoDB" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" alt="MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" height="40" alt="AWS" />
+Full Stack and DevOps developer with 4+ years of experience shipping enterprise solutions in production. Currently transitioning into AI Engineering — building RAG pipelines, LLM agents, and intelligent automation systems with LangChain, LangGraph, and Python.
+
+I'm particularly interested in the intersection of AI and infrastructure: not just building systems that work, but systems that scale.
+
+---
+
+## Currently
+
+- Building a conversational AI project with **LangChain + LangGraph + RAG**
+- Deep diving into **multi-agent systems**, **ChromaDB/FAISS**, and **Prompt Engineering**
+- Managing enterprise deployments on **AWS EKS** with Alfresco, Keycloak, and Activiti
+
+---
+
+## Tech Stack
+
+**AI & Automation**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat&logo=chainlink&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-FF6B35?style=flat&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+
+**Backend**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+
+**Databases**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![pgvector](https://img.shields.io/badge/pgvector-4169E1?style=flat&logo=postgresql&logoColor=white)
+
+**DevOps & Cloud**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat&logo=helm&logoColor=white)
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EspilTomas&layout=compact&theme=github_dark&hide_border=true)
+
 </div>
 
 ---
 
-<h2 align="center">Connect with Me</h2>
-<p align="center">
-  <a href="https://www.linkedin.com/in/pablo-tomas-espil/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin-bottom: 5px; animation: pulse 2s infinite;" />
-  </a>
-</p>
+<div align="center">
 
----
+*Always building. Always learning.*
 
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EspilTomas&layout=compact&theme=github_dark" alt="Top Languages" height="165"/>
-</p>
+</div>
