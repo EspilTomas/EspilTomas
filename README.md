@@ -8,7 +8,7 @@ Building intelligent systems where infrastructure meets AI
 *Concordia, Argentina — Open to remote opportunities*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pablo-tomas-espil)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=netlify&logoColor=white)](https://tomas-espil.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=netlify&logoColor=white)](https://espil-tomas-portfolio.vercel.app/)
 
 </div>
 
