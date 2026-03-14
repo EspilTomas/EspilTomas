@@ -25,7 +25,7 @@ I'm particularly interested in the intersection of AI and infrastructure: not ju
 ## Currently
 
 - Building a conversational AI project with **LangChain + LangGraph + RAG**
-- Deep diving into **multi-agent systems**, **ChromaDB/FAISS**, and **Prompt Engineering**
+- Deep diving into **multi-agent systems**, LangChain, Langraph and **Prompt Engineering**
 - Managing enterprise deployments on **AWS EKS** with Alfresco, Keycloak, and Activiti
 
 ---
